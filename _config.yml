@@ -1,14 +1,28 @@
+name: MatiasQuinn
+favicon: null
 layout_spectrum: 0.9851064
 typography_spectrum: 0.5361702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7872341
-  lightness: 0.8021277
-  brandStrength: 0.1257533
-  rhythmicContrast: 0.706383
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: MatiasQuinn
+  brandStrength: 0.1257533
+  lightness: 0.8021277
+  saturation: 0.125
+  rhythmicContrast: 1
+purpose: []
